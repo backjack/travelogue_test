@@ -89,3 +89,24 @@ div.temp_ov {
 #menu {
   color: #000 !important;
 }*/
+
+/**********Tip page ***********/
+.glyphicon.glyphicon-cutlery {
+    font-size: 32px;
+    margin-top:10px;
+}
+
+.glyphicon.glyphicon-bed {
+    font-size: 32px;
+    margin-top:10px;
+}
+
+.glyphicon.glyphicon-plane{
+    font-size: 32px;
+    margin-top:10px;
+}
+
+.glyphicon.glyphicon-camera{
+    font-size: 32px;
+    margin-top:10px;
+}
