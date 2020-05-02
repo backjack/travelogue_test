@@ -71,3 +71,21 @@
 tr.border_bottom td {
   border-bottom:1pt solid #ddd;
 }
+
+div.temp_ov {
+  overflow: scroll;
+}
+
+.nav-sidebar{
+   font-size: 16px;
+   font-weight:bold
+}
+
+/*#tripMenu {
+  position:fixed !important;
+}*/
+
+/*
+#menu {
+  color: #000 !important;
+}*/

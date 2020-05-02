@@ -212,10 +212,11 @@ http://www.templatemo.com/tm-515-eatery
     border: none;
     margin-bottom: 0;
     padding: 25px 0;
+
   }
 
   .custom-navbar .navbar-brand {
-    color: #ffffff;
+    color: #454545;
     font-size: 18px;
     font-weight: bold;
   }
@@ -262,7 +263,7 @@ http://www.templatemo.com/tm-515-eatery
   .custom-navbar .nav li a {
     font-size: 12px;
     font-weight: bold;
-    color: #ffffff;
+    color: #454545;
     padding-right: 22px;
     padding-left: 22px;
     text-transform: uppercase;
